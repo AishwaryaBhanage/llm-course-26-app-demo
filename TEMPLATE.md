@@ -1,6 +1,6 @@
 ---
 # Fill in all the fields below.
-# See projects/0-demo-solha-park/project.md for a completed reference.
+# See projects/00-demo-solha-park/project.md for a completed reference.
 
 slug: your-folder-name
 # Your pre-created folder name — exactly as it appears under projects/.

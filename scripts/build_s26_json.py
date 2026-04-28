@@ -17,7 +17,7 @@ USAGE:
 
     # Process a single student folder only
     python build_s26_json.py \\
-        --only 0-demo-solha-park \\
+        --only 01-aayush-nair \\
         --output ../ams691-showcase/data/projects/s26.json
 
 DEPENDENCIES:
@@ -453,7 +453,7 @@ def main() -> int:
         "--only",
         metavar="FOLDER",
         nargs="+",
-        help="Process only the specified folder name(s), e.g. --only 0-demo-solha-park",
+        help="Process only the specified folder name(s), e.g. --only 00-demo-solha-park",
     )
     args = parser.parse_args()
 

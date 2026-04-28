@@ -1,5 +1,5 @@
 ---
-slug: 0-demo-solha-park
+slug: 00-demo-solha-park
 title: Demo Project
 students:
   - Solha Park
@@ -16,7 +16,7 @@ semester: "Spring 2026"
 shortTitle: ""
 studentId: ""
 videoUrl: https://drive.google.com/file/d/1a3uonsx-wxIhA03DKlFCESvjv6cjKKVc/view?usp=drive_link
-thumbnail: /thumbnails/demo-app.jpg
+thumbnail: /thumbnails/00-demo-solha-park.jpg
 githubUrl: https://github.com/solhapark
 ---
 

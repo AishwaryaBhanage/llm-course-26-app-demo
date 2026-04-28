@@ -7,7 +7,7 @@ Your personal folder under `projects/` has already been created for you.
 To submit your project:
 
 1. Open `projects/<your-name>/project.md` and fill in every field.
-   See `TEMPLATE.md` for field descriptions and `projects/0-demo-solha-park/project.md` for a completed example.
+   See `TEMPLATE.md` for field descriptions and `projects/00-demo-solha-park/project.md` for a completed example.
 2. Place your code and any other project files inside `projects/<your-name>/src/`.
 3. Open a pull request when ready.
 
@@ -17,4 +17,4 @@ To submit your project:
 - `projects/` — One subfolder per student. Each subfolder contains:
   - `project.md` — Your project summary, rendered on the showcase site.
   - `src/` — Root folder for your project code, docs, and any other files.
-- `projects/0-demo-solha-park/` — A completed example submission. See it for reference before filling in your own `project.md`.
+- `projects/00-demo-solha-park/` — A completed example submission. See it for reference before filling in your own `project.md`.
