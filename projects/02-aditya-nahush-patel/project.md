@@ -1,50 +1,48 @@
-# ResumeAlign AI
+---
+slug: 02-aditya-nahush-patel
+title: ResumeAlign AI
+students:
+  - Aditya Patel
+tags:
+  - resume
+  - ai
+  - ats
+category: other
+tagline: AI powered ATS resume optimization platform
+featuredEligible: true
+semester: Spring 2026
+shortTitle: ResumeAlign
+studentId:
+videoUrl: YOUR_GOOGLE_DRIVE_VIDEO_LINK
+thumbnail: YOUR_GOOGLE_DRIVE_THUMBNAIL_LINK
+githubUrl: https://github.com/Codingaditya17/llm-course-26-app-demo
+---
 
-## Project Title
+# Problem
 
-ResumeAlign AI
+Job seekers often struggle to optimize resumes for Applicant Tracking Systems (ATS). Many resumes are rejected before reaching recruiters because keywords, formatting, and role alignment are missing.
 
-## Short Description
+# Solution
 
-ResumeAlign AI is an AI powered resume tailoring tool that helps users compare their resume against a job description and improve it for better job alignment.
+ResumeAlign AI helps users improve resumes using AI powered ATS analysis. Users can upload a resume and job description, receive ATS scores, keyword suggestions, and optimized feedback for improving recruiter visibility.
 
-## Problem
+# User Flow
 
-Students and job seekers often apply to many roles without knowing how well their resume matches a specific job description. Manually checking for missing skills, weak bullet points, and ATS keywords takes time and can be confusing.
+1. User uploads resume
+2. User pastes job description
+3. AI analyzes ATS compatibility
+4. Platform generates score and recommendations
+5. User improves resume based on feedback
 
-## Solution
+# LLM Components
 
-ResumeAlign AI allows the user to upload a resume PDF and paste a job description. The app extracts resume text using pdfplumber, sends the resume and job description to an LLM through Groq, and returns a match score, missing keywords, rewritten resume bullets, and ATS improvement tips.
+- Resume Parser — extracts structured resume information
+- ATS Analyzer — compares resume against job description
+- Recommendation Engine — generates optimization suggestions
+- Keyword Matcher — identifies missing ATS keywords
 
-## User Flow
+# Tools
 
-1. The user opens the web app.
-2. The user uploads a resume PDF.
-3. The user pastes the job description.
-4. The user clicks `run analysis`.
-5. The backend extracts text from the PDF.
-6. The LLM compares the resume with the job description.
-7. The frontend displays the match score, missing keywords, improved bullets, and ATS tips.
-
-## LLM Components
-
-The app uses Groq with the `llama-3.3-70b-versatile` model. The LLM analyzes the resume and job description together, identifies missing keywords, suggests where to add them, rewrites selected resume bullets, and gives ATS optimization tips.
-
-## Tools Used
-
-- React
-- Vite
-- FastAPI
-- pdfplumber
-- Groq
-- Python
-- JavaScript
-- HTML/CSS
-
-## Demo Video
-
-https://drive.google.com/file/d/1h52WORI8zLxHwb6Rw54jFHCX5jR16AM5/view?usp=sharing
-
-## Thumbnail Image
-
-https://drive.google.com/file/d/1Ejv_9z0byccFM-wf4fMZDGreF8hPgQ2Z/view?usp=sharing
+- Frontend: React, Vite
+- Backend: Python, FastAPI
+- LLM: Groq API
