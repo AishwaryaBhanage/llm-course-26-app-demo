@@ -14,6 +14,8 @@ category: health
 tagline: Predict heart disease risk with ML, explained in plain English by AI.
 featuredEligible: true
 semester: "Spring 2026"
+videoUrl: https://drive.google.com/file/d/1rfAXdzpaEuyyvetCQqYYLB5-JQVj1AMO/view?usp=drive_link
+thumbnail: https://drive.google.com/file/d/1nJgwOpK2sFgFtfFfBizDpfCunngG06fV/view?usp=drive_link
 githubUrl: https://github.com/Parthchavann/heart-disease-risk-prediction
 ---
 
