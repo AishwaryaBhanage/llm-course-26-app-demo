@@ -1,5 +1,5 @@
 ---
-slug: talha-khan
+slug: 33-talha-khan
 title: "SmartSession: A Task-Oriented Browser Sessions Manager"
 
 students:
