@@ -15,6 +15,8 @@ USAGE:
     python build_s26_json.py --check          # validate only, no write
     python build_s26_json.py --verbose        # show per-project details
 
+    python scripts/build_s26_json.py --check --verbose
+
     # Process a single student folder only
     python build_s26_json.py \\
         --only 01-aayush-nair \\
