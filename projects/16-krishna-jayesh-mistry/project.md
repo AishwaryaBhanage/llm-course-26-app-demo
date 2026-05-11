@@ -16,11 +16,9 @@ semester: "Spring 2026"
 shortTitle: "DBSchemaViz"
 studentId: "116781723"
 videoUrl: "https://drive.google.com/file/d/1-Dri1mW4j66L5z1IsIV2S_grvb9i-c9o/view?usp=drive_link"
-thumbnail: "https://drive.google.com/file/d/1I-iGxOld82C6kmgYbsWJIH6vHyi5Ih-L/view?usp=drive_link"
+thumbnail: /thumbnails/16-krishna-jayesh-mistry.jpg
 githubUrl: "https://github.com/KrishnaMistry189"
 ---
-
-
 ## 1. Title
 
 **DBSchemaViz** — browser-based visualization of relational database schemas from `CREATE TABLE` SQL.
