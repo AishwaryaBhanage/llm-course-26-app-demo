@@ -16,7 +16,7 @@ semester: "Spring 2026"
 
 shortTitle: "FinSight"
 studentId: "116740780"
-videoUrl: "[PASTE_YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE]"
+videoUrl: "https://drive.google.com/file/d/1-93NTC-n3hGwGv0aa9awQ117i-dabzeQ/view?usp=drive_link"
 thumbnail: "https://drive.google.com/file/d/1B5o1c7VpyXtdGqK0Wsv-r_S674fKtylE/view?usp=drive_link"
 githubUrl: "https://github.com/Divyansh1414/finsight-ai"
 ---
