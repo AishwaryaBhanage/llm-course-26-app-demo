@@ -1,6 +1,2 @@
 .DS_Store
-.env
-.venv/
-__pycache__/
-*.pyc
-projects/26-sai-ruthvik-madireddy/src/
+**/.DS_Store
