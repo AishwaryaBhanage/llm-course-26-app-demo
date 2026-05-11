@@ -1,5 +1,5 @@
 ---
-slug: krupesh-desai
+slug: 17-krupesh-rajendrakumar-desai
 title: "UniFlow: AI-Powered Unified Course Workspace"
 students:
   - Krupesh Desai
@@ -15,12 +15,11 @@ featuredEligible: true
 
 semester: "Spring 2026"
 shortTitle: "UniFlow"
-studentId: “ 117623888 “
+studentId: "117623888"
 videoUrl: "https://drive.google.com/file/d/16Vakmbftz2nr0c1_rspHN0cyjL9nIle_/view?usp=drive_link"
-thumbnail: "https://drive.google.com/file/d/1-RipW9wOaybmw0ECLvunfvFY77kLro46/view?usp=drive_link"
+thumbnail: /thumbnails/17-krupesh-rajendrakumar-desai.png
 githubUrl: ""
 ---
-
 ## Problem
 
 In AMS 691, students need to manage many course-related tasks across different platforms. Announcements may appear in Brightspace, discussions may happen in Discord-style channels, resources may be shared through Google Drive, assignments may require GitHub submission, and students also need to submit feedback after classmates' presentations.
