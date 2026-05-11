@@ -15,9 +15,9 @@ semester: "Spring 2026"
 
 shortTitle: "DBSchemaViz"
 studentId: "116781723"
-videoUrl: 
-thumbnail: 
-githubUrl: https://github.com/KrishnaMistry189
+videoUrl: "https://drive.google.com/file/d/1-Dri1mW4j66L5z1IsIV2S_grvb9i-c9o/view?usp=drive_link"
+thumbnail: "https://drive.google.com/file/d/1I-iGxOld82C6kmgYbsWJIH6vHyi5Ih-L/view?usp=drive_link"
+githubUrl: "https://github.com/KrishnaMistry189"
 ---
 
 
